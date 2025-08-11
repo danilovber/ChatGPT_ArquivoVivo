@@ -30,6 +30,9 @@
 - **2025-08-11 — Ata da sessão (Arquivo Vivo & Limpeza de Memória)**  
   **Resumo:** Decisões, procedimentos e blocos copiáveis (INDEX, Issue, PR) para preservar conversas e preparar a limpeza de memórias.  
   **Local:** [`00_Export_Bruta/2025-08-11/2025-08-11_Sessao_ChatGPT_ArquivoVivo.md`](00_Export_Bruta/2025-08-11/2025-08-11_Sessao_ChatGPT_ArquivoVivo.md)
+- **2025-08-11 — Conversa ChatGPT (consolidada)**  
+  **Resumo:** Transcrição organizada da sessão (decisões, passos, instruções e blocos prontos de INDEX/Issue/PR).  
+  **Local:** [`00_Export_Bruta/2025-08-11/2025-08-11_Conversa_ChatGPT_Completa.md`](00_Export_Bruta/2025-08-11/2025-08-11_Conversa_ChatGPT_Completa.md)
 - **2025-08-11 — Saudação inicial**  
   **Resumo:** Bom dia Chat, como vai?  
   **Local:** [`00_Export_Bruta/2025-08-11/2025-08-11_1121_Saudacao_inicial.md`](00_Export_Bruta/2025-08-11/2025-08-11_1121_Saudacao_inicial.md)
