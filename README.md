@@ -1,7 +1,4 @@
 # ChatGPT_ArquivoVivo
-Arquivo contendo meus primeiros Chats no ChatGPT
-# ChatGPT_ArquivoVivo
-
 Repositório privado para organizar conversas exportadas do ChatGPT e materiais relacionados. 
 Este espaço funciona como **arquivo vivo**: tudo fica versionado e organizado por tema para consulta rápida.
 
