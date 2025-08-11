@@ -1,0 +1,36 @@
+# Bioarqueologia: Integração Social.
+
+**ID:** `aace17cf-91b8-4bb7-8a5e-524787b98d3f`
+**Criado (America/Sao_Paulo):** 2024-04-26 14:47:22 -03
+
+---
+
+**Usuário — 2024-04-26 14:47:22 -03**
+Por favor, determine quatro palavras-chave para o texto abaixo:
+
+O termo Bioarqueologia surgiu na década de 1970 com o intuito de desenvolver o estudo dos remanescentes humanos em contexto arqueológico, seja histórico ou pré-colonial, a partir de diferentes fontes de informações de seus diferentes domínios e conjunturas, como a mortuária, a simbólica, a tecnológica, a evolutiva, a ecológica e a geográfica, por exemplo, visando investigar as evidências materiais do comportamento social humano a partir de uma perspectiva evolutivo-populacional e integrativa, sob o paradigma biocultural. Desde então, e principalmente nas últimas duas décadas, a Bioarqueologia tem se engajado também em questões sociais, políticas e éticas sobre os estudos envolvendo remanescentes humanos, direcionando olhares para temas como Bioarqueologia social, da infância, do ritual e da religião, da violência, dos desastres, das pessoas marginalizadas, do indivíduo e de gênero, assim como outros assuntos e aspectos transversais como curadoria, identidade e repatriamento que envolvam estes estudos. Neste mesmo arcabouço teórico-metodológico, a Bioarqueologia tem, ainda, se apropriado de novas técnicas de obtenção de dados a partir dos remanescentes humanos tais como isótopos estáveis, tecnologias digitais, DNA antigo, proteômica, microscopia e desenvolvimento e análise de grandes bancos de dados, para citar alguns exemplos. Essa relação integradora entre ciência, evolução e contextos sociais demanda iniciativas colaborativas, engajadas e contextualizadas local e regionalmente, fazendo necessária a atuação ampla, diversificada e socialmente engajada de profissionais de Bioarqueologia.  Nesse contexto, desde o congresso da SAB de 2015, os autores têm se comprometido a organizar um espaço destinado a celebrar a importância e o crescimento da Bioarqueologia no Brasil, através da realização de Simpósio Temático dedicado a contemplar a amplitude dos trabalhos realizados por bioarqueólogas e bioarqueólogos abarcando as diferentes dimensões da prática bioarqueológica. Convidamos, assim, a compartilharem essas pesquisas durante este encontro da SAB Sul.
+
+**Chat — 2024-04-26 14:47:22 -03**
+Bioarqueologia, integração, social, tecnológica.
+
+**Usuário — 2024-04-26 14:48:17 -03**
+Determine quatro palavras chave que não estejam no título do texto abaixo:
+
+Por uma Bioarqueologia biocultural: ciência, evolução, cultura e engajamento social
+Danilo Vicensotto Bernardo, Pedro Da-Gloria
+O termo Bioarqueologia surgiu na década de 1970 com o intuito de desenvolver o estudo dos remanescentes humanos em contexto arqueológico, seja histórico ou pré-colonial, a partir de diferentes fontes de informações de seus diferentes domínios e conjunturas, como a mortuária, a simbólica, a tecnológica, a evolutiva, a ecológica e a geográfica, por exemplo, visando investigar as evidências materiais do comportamento social humano a partir de uma perspectiva evolutivo-populacional e integrativa, sob o paradigma biocultural. Desde então, e principalmente nas últimas duas décadas, a Bioarqueologia tem se engajado também em questões sociais, políticas e éticas sobre os estudos envolvendo remanescentes humanos, direcionando olhares para temas como Bioarqueologia social, da infância, do ritual e da religião, da violência, dos desastres, das pessoas marginalizadas, do indivíduo e de gênero, assim como outros assuntos e aspectos transversais como curadoria, identidade e repatriamento que envolvam estes estudos. Neste mesmo arcabouço teórico-metodológico, a Bioarqueologia tem, ainda, se apropriado de novas técnicas de obtenção de dados a partir dos remanescentes humanos tais como isótopos estáveis, tecnologias digitais, DNA antigo, proteômica, microscopia e desenvolvimento e análise de grandes bancos de dados, para citar alguns exemplos. Essa relação integradora entre ciência, evolução e contextos sociais demanda iniciativas colaborativas, engajadas e contextualizadas local e regionalmente, fazendo necessária a atuação ampla, diversificada e socialmente engajada de profissionais de Bioarqueologia.  Nesse contexto, desde o congresso da SAB de 2015, os autores têm se comprometido a organizar um espaço destinado a celebrar a importância e o crescimento da Bioarqueologia no Brasil, através da realização de Simpósio Temático dedicado a contemplar a amplitude dos trabalhos realizados por bioarqueólogas e bioarqueólogos abarcando as diferentes dimensões da prática bioarqueológica. Convidamos, assim, a compartilharem essas pesquisas durante este encontro da SAB Sul.
+
+**Chat — 2024-04-26 14:48:18 -03**
+cultura, engajamento, arcabouço, colaborativas
+
+**Usuário — 2024-04-26 14:49:19 -03**
+Determine quatro palavras-chave para o texto abaixo e que não estejam no título:
+
+Título: Por uma Bioarqueologia biocultural: ciência, evolução, cultura e engajamento social
+
+Autores: Danilo Vicensotto Bernardo, Pedro Da-Gloria
+
+Texto: O termo Bioarqueologia surgiu na década de 1970 com o intuito de desenvolver o estudo dos remanescentes humanos em contexto arqueológico, seja histórico ou pré-colonial, a partir de diferentes fontes de informações de seus diferentes domínios e conjunturas, como a mortuária, a simbólica, a tecnológica, a evolutiva, a ecológica e a geográfica, por exemplo, visando investigar as evidências materiais do comportamento social humano a partir de uma perspectiva evolutivo-populacional e integrativa, sob o paradigma biocultural. Desde então, e principalmente nas últimas duas décadas, a Bioarqueologia tem se engajado também em questões sociais, políticas e éticas sobre os estudos envolvendo remanescentes humanos, direcionando olhares para temas como Bioarqueologia social, da infância, do ritual e da religião, da violência, dos desastres, das pessoas marginalizadas, do indivíduo e de gênero, assim como outros assuntos e aspectos transversais como curadoria, identidade e repatriamento que envolvam estes estudos. Neste mesmo arcabouço teórico-metodológico, a Bioarqueologia tem, ainda, se apropriado de novas técnicas de obtenção de dados a partir dos remanescentes humanos tais como isótopos estáveis, tecnologias digitais, DNA antigo, proteômica, microscopia e desenvolvimento e análise de grandes bancos de dados, para citar alguns exemplos. Essa relação integradora entre ciência, evolução e contextos sociais demanda iniciativas colaborativas, engajadas e contextualizadas local e regionalmente, fazendo necessária a atuação ampla, diversificada e socialmente engajada de profissionais de Bioarqueologia.  Nesse contexto, desde o congresso da SAB de 2015, os autores têm se comprometido a organizar um espaço destinado a celebrar a importância e o crescimento da Bioarqueologia no Brasil, através da realização de Simpósio Temático dedicado a contemplar a amplitude dos trabalhos realizados por bioarqueólogas e bioarqueólogos abarcando as diferentes dimensões da prática bioarqueológica. Convidamos, assim, a compartilharem essas pesquisas durante este encontro da SAB Sul.
+
+**Chat — 2024-04-26 14:49:20 -03**
+remanescentes, paradigma, curadoria, repatriamento
