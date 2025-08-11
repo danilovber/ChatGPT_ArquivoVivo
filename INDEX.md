@@ -33,6 +33,9 @@
 - **2025-08-11 — Conversa ChatGPT (consolidada)**  
   **Resumo:** Transcrição organizada da sessão (decisões, passos, instruções e blocos prontos de INDEX/Issue/PR).  
   **Local:** [`00_Export_Bruta/2025-08-11/2025-08-11_Conversa_ChatGPT_Completa.md`](00_Export_Bruta/2025-08-11/2025-08-11_Conversa_ChatGPT_Completa.md)
+- **2025-08-11 — Conversa ChatGPT (íntegra, sem organização)**  
+  **Resumo:** Transcrição completa da conversa do dia, em Markdown, sem qualquer edição ou reorganização.  
+  **Local:** [`00_Export_Bruta/2025-08-11/2025-08-11_conversa.md`](00_Export_Bruta/2025-08-11/2025-08-11_conversa.md)
 - **2025-08-11 — Saudação inicial**  
   **Resumo:** Bom dia Chat, como vai?  
   **Local:** [`00_Export_Bruta/2025-08-11/2025-08-11_1121_Saudacao_inicial.md`](00_Export_Bruta/2025-08-11/2025-08-11_1121_Saudacao_inicial.md)
