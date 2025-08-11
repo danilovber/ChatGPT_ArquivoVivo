@@ -1,0 +1,16 @@
+# SO / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+*.tmp
+*.log
+
+# Office temporários
+~*.docx
+~*.xlsx
+
+# Build/Cache comuns
+.cache/
+.temp/
+*.bak
