@@ -27,6 +27,11 @@
 - **2025-08-11 — Pacote Inicial Arquivo Vivo (.zip)**  
   **Resumo:** Estrutura-base do repositório, contendo pastas organizadas, arquivos README, INDEX, .gitignore e templates de Issue/PR para manutenção do índice.  
   **Local:** [`06_ReferenciaRapida/2025-08-11_Pacote_Inicial/ChatGPT_ArquivoVivo_inicial.zip`](06_ReferenciaRapida/2025-08-11_Pacote_Inicial/ChatGPT_ArquivoVivo_inicial.zip)
+
+- **2025-08-12 — Exemplo INDEX**  
+  **Resumo:** Exemplo para atualização de INDEX.  
+  **Local:** [`00_Export_Bruta/2025-08-11/2025-08-11_Sessao_ChatGPT_ArquivoVivo.md`](00_Export_Bruta/2025-08-11/INDEX_exemplo.md)
+
 - **2025-08-11 — Ata da sessão (Arquivo Vivo & Limpeza de Memória)**  
   **Resumo:** Decisões, procedimentos e blocos copiáveis (INDEX, Issue, PR) para preservar conversas e preparar a limpeza de memórias.  
   **Local:** [`00_Export_Bruta/2025-08-11/2025-08-11_Sessao_ChatGPT_ArquivoVivo.md`](00_Export_Bruta/2025-08-11/2025-08-11_Sessao_ChatGPT_ArquivoVivo.md)
